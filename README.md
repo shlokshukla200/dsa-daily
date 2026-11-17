@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shlokshukla200/dsa-daily/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shlokshukla200/dsa-daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
